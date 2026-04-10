@@ -11,7 +11,8 @@ The repo is private and belongs to someone else, so I can't share it here,
 
 But it is a tactical RPG built in Godot. I'm working as a programmer.
 
-<div style='position:absolute; bottom:0px'>
+<div style='position:absolute; bottom:5px'>
 <a href="https://chamberlog64.github.io/">HomePage</a>
+  &nbsp
   <a href="https://chamberlog64.github.io/contents/">Table of Contents</a>
 </div>
