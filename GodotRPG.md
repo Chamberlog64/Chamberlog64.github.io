@@ -6,4 +6,7 @@ permalink: /projects/GodotRPG/
 
 # Group Project: furry_rpg
 This is a game development project that I'm working on with some friends!
-Check out the repo [here](https://github.com/Emaniacinator/furry_rpg)
+
+The repo is private and belongs to someone else, so I can't share it here,
+
+But it is a tactical RPG built in Godot. I'm working as a programmer.
