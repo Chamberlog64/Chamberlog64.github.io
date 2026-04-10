@@ -15,4 +15,4 @@ permalink: /contents/
 
 [The Earth is Flat](https://chamberlog64.github.io/projects/the_earth_is_flat/)
 
-Sonic Rebound Engine
+[Sonic Rebound Engine](https://chamberlog64.github.io/projects/sonic_rebound/)
