@@ -13,6 +13,6 @@ But it is a tactical RPG built in Godot. I'm working as a programmer.
 
 <div style='position:absolute; bottom:5px'>
 <a href="https://chamberlog64.github.io/">HomePage</a>
-  &nbsp
+  &nbsp;
   <a href="https://chamberlog64.github.io/contents/">Table of Contents</a>
 </div>
