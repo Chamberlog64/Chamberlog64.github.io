@@ -11,3 +11,8 @@ A game development project created in scratch! Click the project below to start 
 
 You can also see the original project [here](https://scratch.mit.edu/projects/873038602/)
 
+<div style='position:absolute; bottom:10px'>
+<a href="https://chamberlog64.github.io/">HomePage</a>
+  &nbsp;
+  <a href="https://chamberlog64.github.io/contents/">Table of Contents</a>
+</div>
