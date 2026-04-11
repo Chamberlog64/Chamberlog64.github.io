@@ -11,7 +11,7 @@ permalink: /contents/
 
 [HomePage](https://chamberlog64.github.io/)
 
-[Godot RPG](https://chamberlog64.github.io/projects/GodotRPG/)
+[Introduction](https://chamberlog64.github.io/introduction/)
 
 [The Earth is Flat](https://chamberlog64.github.io/projects/the_earth_is_flat/)
 
